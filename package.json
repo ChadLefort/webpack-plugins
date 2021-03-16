@@ -1,0 +1,28 @@
+{
+  "name": "webpack-plugins",
+  "version": "1.0.0",
+  "description": "utility webpack plugins",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChadLefort/webpack-plugins.git"
+  },
+  "author": "Chad Lefort",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChadLefort/webpack-plugins/issues"
+  },
+  "homepage": "https://github.com/ChadLefort/webpack-plugins#readme",
+  "peerDependencies": {
+    "typescript": ">=4.2.3",
+    "yalc": ">=1.0.0-pre.50"
+  },
+  "devDependencies": {
+    "typescript": "^4.2.3",
+    "webpack": "^5.26.2",
+    "yalc": "^1.0.0-pre.50"
+  }
+}
